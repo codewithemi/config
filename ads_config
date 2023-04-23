@@ -1,0 +1,11 @@
+{
+  "banner": {
+    "320": "https://github.com/320",
+    "468": "https://github.com/468",
+    "728": "https://github.com/728"
+  },
+  "interstitial": {
+    "url": "https://adsterra.com",
+    "max_show": 5
+  }
+}
