@@ -1,4 +1,4 @@
 {
-  "is_update": true,
-  "update_url": "https://google.com"
+  "is_update": 1000,
+  "update_url": 1000
 }
