@@ -1,8 +1,8 @@
 {
   "banner": {
-    "320": "https://github.com/320",
-    "468": "https://github.com/468",
-    "728": "https://github.com/728"
+    "320": "https://codewithemi.github.io/320x50.html",
+    "468": "https://codewithemi.github.io/468x60.html",
+    "728": "https://codewithemi.github.io/728x90.html"
   },
   "interstitial": {
     "url": "https://adsterra.com",
